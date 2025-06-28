@@ -58,7 +58,7 @@ This project involves designing a complete data pipeline to ingest, clean, store
 │ └── sql_queries.sql
 │
 ├── README.md
-└── requirements.txt
+
 
 ---
 
