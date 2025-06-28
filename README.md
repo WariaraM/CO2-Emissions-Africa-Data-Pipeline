@@ -17,9 +17,10 @@ This project involves designing a complete data pipeline to ingest, clean, store
 ## 🛠 Tools & Technologies
 
 - Python (Pandas, NumPy)
-- SQL (SQLite or MySQL)
+- SQL (SQLite)
 - Jupyter Notebook
 - Data Visualization (Matplotlib, Seaborn)
+- Data Transformation (MinMaxScaler)
 - CSV file: `co2 Emission Africa.csv`
 
 ---
